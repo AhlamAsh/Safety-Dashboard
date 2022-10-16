@@ -10,7 +10,7 @@
  Data of the metals and mining sector for the years 2016-2017
 ## Metrics
 
-- count of Accidents in each industr
+- count of Accidents in each industry
 - Monthly Accidents
 - Potential Accidents Level by Industry Sector
 - critical risk
